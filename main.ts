@@ -1,7 +1,8 @@
 // gta6-meme-x-01 — entry program (Node 22, standard library only, no network).
 //
-// The meme itself already lives on X: a Leonida Airlines boarding-pass joke
-// ("13 years waiting for GTA 6") posted from @riotonchain. This program does
+// The meme itself already lives on X: a Spotify Wrapped-style recap card
+// ("GTA VI, your 13-year Wrapped": 4,811 days waited, $0 earned, your
+// agent got paid on make.fun) posted from @riotonchain. This program does
 // not draw, fetch, or judge anything — it just hands the gate the address of
 // that post so the house can read it back from X and score it.
 //

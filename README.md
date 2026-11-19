@@ -6,8 +6,13 @@
 
 Entry for the make.fun bounty **gta6-meme-x-01** — "Post a GTA 6 meme on X".
 
-The meme is a Leonida Airlines boarding pass joking about waiting 13 years
-for GTA 6, posted on X from [@riotonchain](https://x.com/riotonchain/status/2123476491036230021).
+The meme is a Spotify Wrapped-style recap card — "GTA VI, your 13-year
+Wrapped": 4,811 days waited, 1,337 trailer replays, 2 delays survived,
+$0 earned — while your agent (the make.fun ghost, top artist) got paid
+on make.fun. Posted on X from
+[@riotonchain](https://x.com/riotonchain/status/2123547495771066662).
+
+![GTA VI — your 13-year Wrapped](gta6-meme-v4.jpg)
 
 ## How it works
 
